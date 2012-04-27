@@ -5,7 +5,7 @@
   <property name="lib.dir" value="lib" />
   <property name="build.dir" value="build" />
   <property name="project.name" value="bit4j" />
-  <property name="project.version" value="0.1" />
+  <property name="project.version" value="0.2" />
   <property name="dist.dir" value="dist" />
   <property name="archive.name-bit4j" value="bit4j-${project.version}" />
   <property name="exclude-classes" value="com/bit4j/dummy/**,com/bit4j/facebook/test/**"></property>	
